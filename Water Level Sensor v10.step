@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'E:/tmp/Water Level Sensor v10.step',
-/* time_stamp */ '2022-08-09T18:50:11+02:00',
+/* time_stamp */ '2022-08-09T20:02:23+02:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v19',
@@ -59297,17 +59297,17 @@ SOLID_ANGLE_UNIT()
 #53885=PRODUCT_DEFINITION_SHAPE('',$,#53888);
 #53886=SHAPE_REPRESENTATION('',(#29014),#53878);
 #53887=PRODUCT_DEFINITION_CONTEXT('part definition',#53892,'design');
-#53888=PRODUCT_DEFINITION('Water Level Sensor','Water Level Sensor v9',
+#53888=PRODUCT_DEFINITION('Water Level Sensor','Water Level Sensor v10',
 #53889,#53887);
 #53889=PRODUCT_DEFINITION_FORMATION('',$,#53894);
-#53890=PRODUCT_RELATED_PRODUCT_CATEGORY('Water Level Sensor v9',
-'Water Level Sensor v9',(#53894));
+#53890=PRODUCT_RELATED_PRODUCT_CATEGORY('Water Level Sensor v10',
+'Water Level Sensor v10',(#53894));
 #53891=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#53892);
 #53892=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #53893=PRODUCT_CONTEXT('part definition',#53892,'mechanical');
-#53894=PRODUCT('Water Level Sensor','Water Level Sensor v9',$,(#53893));
+#53894=PRODUCT('Water Level Sensor','Water Level Sensor v10',$,(#53893));
 #53895=PRESENTATION_STYLE_ASSIGNMENT((#53898));
 #53896=PRESENTATION_STYLE_ASSIGNMENT((#53899));
 #53897=PRESENTATION_STYLE_ASSIGNMENT((#53900));
